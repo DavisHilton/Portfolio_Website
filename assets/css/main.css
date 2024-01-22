@@ -2353,12 +2353,13 @@ input[type="radio"]:focus+label:before {
 }
 
 
-/* Image */
+/* ==================Image====================================== */
 
 .image {
     border: 0;
     display: inline-block;
-    position: relative;
+    position: relative;  
+    
 }
 
 .image img {
@@ -2403,7 +2404,7 @@ input[type="radio"]:focus+label:before {
 
 .image.main {
     display: block;
-    margin: 4rem 0;
+    margin: 4rem,0;
     width: 100%;
 }
 
